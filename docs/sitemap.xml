@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.myblogexample.io/index.html</loc>
+    <lastmod>2022-11-07T12:49:43.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/posts/pypost/index.html</loc>
+    <lastmod>2022-11-03T12:00:51.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/about.html</loc>
+    <lastmod>2022-11-07T12:49:23.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/posts/welcome/index.html</loc>
+    <lastmod>2022-11-03T13:52:04.370Z</lastmod>
+  </url>
+</urlset>

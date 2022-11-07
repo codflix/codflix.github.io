@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Body headerThis is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\nprintf(\"this\");\n\n\n\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "Alt text\n\n\nThis is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Body header\nFinley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CODFlix - Code On Demand",
+    "section": "",
+    "text": "Body header\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMonday, October 31, 2022\n\n\nAnand Mani Tiwari\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nThursday, November 3, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntest demo\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items\n\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/pypost/index.html",
+    "href": "posts/pypost/index.html",
+    "title": "test demo",
+    "section": "",
+    "text": "Logo image\n\nFor a demonstration of a line plot on a polar axis, see ?@fig-polar.\n\n\n\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  }
+]

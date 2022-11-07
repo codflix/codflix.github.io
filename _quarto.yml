@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: | 
+    ![Logo image](https://avatars.githubusercontent.com/u/117170723?v=4 "CODFlix - Code On Demand") CODFLIX
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: "G-XXXXXXX"
+    anonymize-ip: true
+  favicon: logo.png
+  twitter-card:
+    creator: "@dragsonstyle"
+    site: "@rstudio"
+  body-header: |
+    Body header 
+  body-footer: |
+   This page brought to you by <https://example.com>
+  margin-header: subscribe.html
+  margin-footer: advertisement.html
+  
+  site-url: https://www.myblogexample.io
+  description: "A great sample blog"
+  navbar:
+    left:
+      - icon: home
+      - text: "Home"
+        file: index.qmd
+      - about.qmd 
+    right:
+      - icon: rss
+        href: index.xml
+      - icon: linkedin
+        href: https://www.linkedin.com/in/anandmt/
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    css: styles.css
+theme:
+  light: cosmo
+  dark: [cosmo, theme-dark.scss]
+
+
+
+

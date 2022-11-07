@@ -1,0 +1,11 @@
+---
+title: "test demo"
+twitter-card:
+  image: "https://quarto.org/docs/websites/images/tools.png"
+format:
+  html:
+    code-fold: true
+    open-graph: true
+---
+
+For a demonstration of a line plot on a polar axis, see @fig-polar.

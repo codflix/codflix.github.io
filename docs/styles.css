@@ -1,0 +1,12 @@
+/* css styles */
+nav .nav-item:not(.compact) {
+    padding-top: 0px;
+}
+
+.navbar-title img{
+    width: 70px;
+}
+
+.quarto-title-banner{
+    background-color: transparent !important;
+}

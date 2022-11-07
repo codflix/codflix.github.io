@@ -1,0 +1,12 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2022-11-03"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+![Alt text](https://avatars.githubusercontent.com/u/117170723?v=4 "a title")
+
+
+This is a post with executable code.
